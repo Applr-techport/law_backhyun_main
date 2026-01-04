@@ -15,5 +15,8 @@
   "license": "ISC",
   "devDependencies": {
     "playwright": "^1.57.0"
+  },
+  "dependencies": {
+    "mcp-figma": "^0.1.1"
   }
 }

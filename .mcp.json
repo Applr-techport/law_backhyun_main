@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mcp-figma": {
+      "command": "node",
+      "args": [
+        "/home/user/law_backhyun_main/node_modules/mcp-figma/build/index.js"
+      ]
+    }
+  }
+}
